@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The articles of alliance, between England &amp; Spain, signed the 10th day of June, 1680. Also articles of alliance between England &amp; Holland signed the 3d day of March, 1677[/]8.</title>
+            <title>Treaties, etc. Spain, 1680-06-10</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19261</idno><idno type="EEBO-CITATION">99885501</idno>
+  <idno type="VID">196291</idno>
+  <idno type="EEBO-PROQUEST">2240898388</idno>
+  
+            <idno type="STC">Wing C2893aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.3*.[30]</idno>
+            <idno type="STC">ESTC R224220</idno>
+            <idno type="PROQUEST">ocm99885501</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885501e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196291)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F2:2[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The articles of alliance, between England &amp; Spain, signed the 10th day of June, 1680. Also articles of alliance between England &amp; Holland signed the 3d day of March, 1677[/]8.</title>
+                  <title>Treaties, etc. Spain, 1680-06-10</title>
+                  <author>England and Wales.</author>
+                  <author>Spain. Treaties, etc. England and Wales, 1680 June 10.</author>
+                  <author>England and Wales. Treaties, etc. Spain, 1680 June 10.</author>
+                  <author>United Provinces of the Netherlands. Treaties, etc. England and Wales, 1678 Mar. 3.</author>
+                  <author>England and Wales. Treaties, etc. United Provinces of the Netherlands, 1678 Mar. 3.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the year, MDCLXXX. [1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">England --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term type="geographic_name">Spain --  Foreign relations --  England --  Early works to 1800.</term>
+               <term type="geographic_name">England --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term type="geographic_name">Netherlands --  Foreign relations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196291:1"/>
+            <p>THE ARTICLES OF ALLIANCE, BETWEEN England &amp; Spain, Signed the 10th Day of <hi>June,</hi> 1680. ALSO ARTICLES OF ALLIANCE BETWEEN England &amp; Holland Signed the 3d Day of <hi>March,</hi> 1677/8.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, MDCLXXX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treaty">
+            <pb facs="tcp:196291:2"/>
+            <pb n="1" facs="tcp:196291:2"/>
+            <head>Articles of Alliance between <hi>ENGLAND</hi> and <hi>SPAIN,</hi> &amp;c.</head>
+            <div n="1" type="article">
+               <head>
+                  <hi>Article</hi> I.</head>
+               <p>THere shall be between the said King of <hi>Great Britain,</hi> on the one part, and the said King of <hi>Spain</hi> on the other, as also between their Successors, Kingdoms, States and Countries, belonging to the same, and their Subjects reciprocally, a sincere, firm and perpetual Friendship and good Correspondence, as well at Sea as at Land, in all Things, and in all Places, as well within as without <hi>Europe.</hi>
+               </p>
+            </div>
+            <div n="2" type="article">
+               <head>
+                  <hi>Article</hi> II.</head>
+               <p>
+                  <hi>Secondly,</hi> Moreover there shall be between their Majesties and their Successors, their Kingdoms, States and Countries belonging to the same, a strict Defensive, Alliance, and faithful Confederation for the maintain<g ref="char:EOLhyphen"/>ing and preserving each other mutually, in the Possession of all Terri<g ref="char:EOLhyphen"/>tories, Towns, Places and Countries, which belong to them, and in the enjoyment of all the Rights, Franchises and Liberties of Navigati<g ref="char:EOLhyphen"/>on and Commerce, and others whatsoever, of what nature they may be, as well upon the Sea as Land, which they enjoy, or have right to enjoy by common Right, or which they have acquired, or shall acquire hereafter, by the Treaties of Peace, Friendship, or Neutrality, which have been made heretofore (and all that is lately comprehended in the Treaty of <hi>Nimeghen</hi>) or which shall be made hereafter jointly, and by common consent with other Kings, Common-Wealths, Princes, or Towns, yet within the extent of <hi>Europe</hi> only.</p>
+            </div>
+            <div n="3" type="article">
+               <head>
+                  <hi>Article</hi> III.</head>
+               <p>
+                  <hi>Thirdly,</hi> And accordingly, they promise and obliege themselves to warrant each other, not only all Treaties which they have already made with other Kings, States, Princes and Common-Wealths (which shall be exhibited on both Sides before the exchange of the Ratifications) but also, all such as shall be made hereafter jointly, and by common consent, and to defend, assist and preserve themselves reciprocally in the Possession of the Territories, Towns, Places and Countries, which belong at present, or shall belong hereafter, as well to His Majesty of <hi>Great Britain,</hi> and the Kings his Successors, as to his Catholick Majesty, and the Kings his Successors, by the said Treaties or other<g ref="char:EOLhyphen"/>wise, in what part of <hi>Europe</hi> soever the said Places, Territories, Towns, or Countries be scituated; So that if their Majesties, or the Kings their Successors, or one of them, come to be attacked, or in any other sort whatsoever molested in the possession or enjoyment of the Territories, Towns, Places and Countries, Rights, Immunities, and Liberties of Na<g ref="char:EOLhyphen"/>vigation, Commerce, or others whatsoever, of what Nature soever they may be, by Sea or Land, which they possess or enjoy, or have right to Possess, or Enjoy whether by common Right, or by Treaties already made, or which may be made, as aforesaid; their Majesties being ad<g ref="char:EOLhyphen"/>vertised thereof, and required the one by the other, shall jointly do all they can to cause the said Molestation or Hostility to cease, and Repara<g ref="char:EOLhyphen"/>tion to be made for the Injuries and Wrongs, which may have been done to either of the Allies.</p>
+            </div>
+            <div n="4" type="article">
+               <pb n="2" facs="tcp:196291:3"/>
+               <head>
+                  <hi>Article</hi> IIII.</head>
+               <p>
+                  <hi>Fourthly,</hi> And in case, the said Attack or Molestation be followed by an open War, the Ally who shall not be Attacked, shall be obli<g ref="char:EOLhyphen"/>ged to break three Months after the first Demand thereof made by him who shall be already in War, and shall, during that time em<g ref="char:EOLhyphen"/>ploy all Endeavours by his Ambassador, or other Minister, to medi<g ref="char:EOLhyphen"/>ate a fair Accommodation between the Aggressor and Molestor, and him that shall be Attacked or Molested; and shall in the mean while, during the said time assist his Ally, who shall be troubled, with 8000 Foot well Armed, in such Regiments and Companies, and under such <hi>Collonels</hi> and other Officers, as he shall think fit, and shall deliver the said Succors, and entertain them at his own Charge for the Service of him that is attacked or molested, during the whole time, he shall not be oblieged to enter into a War, according to this Treaty; and either Party shall have Liberty to take these Succors, either all in Souldiers, or all in Mony, or part in Soldiers, Mony, Ships, Armes, Ammunition, or other things proper for the use of War; so that one thousand Souldiers shall be rated at 10000 <hi>Flo<g ref="char:EOLhyphen"/>rins,</hi> of 20 <hi>Stivers</hi> each <hi>Brabant</hi> Mony, monthly, according to the Course of the Bank at <hi>London</hi> or <hi>Antwerp,</hi> counting 12 Months in the Year, and the Payment shall be made in the Beginning of each Month, by equal Portions, and the Mony shall be delivered at <hi>Lon<g ref="char:EOLhyphen"/>don</hi> or <hi>Antwerp</hi> respectively. But in case, the said Succors be given either in Part, or wholly in Ammunition, Ships or other things pro<g ref="char:EOLhyphen"/>per for the Use of War, he who is assisted shall be oblieged to come and receive and fetch them himself from the Country of the Par<g ref="char:EOLhyphen"/>ty who shall furnish the said Succors. And if the Party assisted desire to have in part, Horse, or Dragoons, each Horse-man or Dragoon shall be reckoned equal to three Foot Souldiers, towards the com<g ref="char:EOLhyphen"/>pleating the Number of 8000 Men, or such part of them, as he that is attacked or molested shall desire, and when the Succors shall be given in Souldiers, they shall be wholly submitted to the Command of, and to receive Orders from him to whom they shall be sent, to make use of them in the Field, for Besieging and Defending of Pla<g ref="char:EOLhyphen"/>ces, and every where else, where it shall be found necessary or ad<g ref="char:EOLhyphen"/>vantagious to employ them, but yet with this reserve, that the Com<g ref="char:EOLhyphen"/>panies shall not be entirely separated the one from the other, but that they shall remain together under their Colors to the number of at least two or three hundred Souldiers of each Regiment, and when the necessity of affairs shall require the Succors promised and agreed up<g ref="char:EOLhyphen"/>on to be augumented, their Majesties will endeavor to agree thereof together, and after the said term of three Months is expired, it shall be left to the choice of the Party in War, to continue to enjoy the benefit of the said Succours, in Case that the conjuncture of the time, or the Circumstances of his affairs, make him prefer the affect there<g ref="char:EOLhyphen"/>of to that of an open Breach of his Ally</p>
+            </div>
+            <div n="5" type="article">
+               <head>
+                  <hi>Article.</hi> V.</head>
+               <p>
+                  <hi>Fifthly,</hi> A reciprocal Guaranty being in this manner established and promised, when it shall happen, that either of the Allies be at<g ref="char:EOLhyphen"/>tacked or molested, and finds himself oblieged to enter into an open War, the other Ally shall also be oblieged to break with the Aggressor or Molestor, and to employ all his Might and Forces by Sea and Land, and to joyn those to his Ally, who shall be attacked or troubled, in order to reduce the Common Enemy to a reasonable, sure, and equi<g ref="char:EOLhyphen"/>table Accommodation with both the Allies.</p>
+            </div>
+            <div n="6" type="article">
+               <pb n="3" facs="tcp:196291:3"/>
+               <head>
+                  <hi>Article</hi> VI.</head>
+               <p>
+                  <hi>Sixthly,</hi> And in this Case, their Majesties Forces shall act jointly or separately, according to what shall be then more particularly agreed upon between them, and they shall advise upon, and resolve toge<g ref="char:EOLhyphen"/>ther of the best means to molest the common Enemy, whether by way of Diversion or otherwise, to the intent, that as is said, they may obliege him the sooner to come to an agreement.</p>
+            </div>
+            <div n="7" type="article">
+               <head>
+                  <hi>Article</hi> VII.</head>
+               <p>
+                  <hi>Seaventhly,</hi> And though according to what is said at the end of the Second Article of this present Treaty, the effect of this League is li<g ref="char:EOLhyphen"/>mited to the extent of <hi>Europe,</hi> it is to be understood, notwithstanding, that if his Majesty of <hi>Great Britain,</hi> or his <hi>Catholick</hi> Majesty shall for the time to come be attacked, or in any manner molested, in the Possession or Enjoyment of the Territories, Towns, Places and Countries, Rights, Immunities and Liberties of Navigation, Commerce, or others whatsoever, of what nature soever they be, as well upon the Sea as the Land, which they Possess and Enjoy, or have right to Possess and Enjoy, even out of <hi>Europe,</hi> and in any other part of the World, by common Right or by Treaties already made, or which shall be made hereafter, according as is abovesaid, their Majesties being advertised thereof, and required the one by the other, shall jointly do all they can possible to cause the Molestation or Hostility to cease, and that the Injuries and Wrongs, which shall have been done to either of the Allies may be repaired, and in case, that cannot be effected by Friend<g ref="char:EOLhyphen"/>ly means within the space of four Months, and that the Party who shall in this manner be attacked or molested out of <hi>Europe,</hi> in what part of the World soever it be, finds himself oblieged to employ his Arms in <hi>Europe</hi> against the Aggressor or Molestor, to reduce him to reason, the other Party who shall not be attacked or molested shall give to him that is the Succors above mentioned, and shall afterwards enter into open War with the Aggressor or Molestor, in the same manner, as if the attack or Molestation were given within the extent of <hi>Europe.</hi>
+               </p>
+            </div>
+            <div n="8" type="article">
+               <head>
+                  <hi>Article</hi> VIII.</head>
+               <p>
+                  <hi>Eighthly,</hi> And when both Allies shall be once entred into open War, in pursuance of this Treaty, neither of them shall make any Suspension of Arms with him who shall be declared and acknowledged as a common Enemy, but only jointly and by common Consent.</p>
+            </div>
+            <div n="9" type="article">
+               <head>
+                  <hi>Article</hi> IX.</head>
+               <p>
+                  <hi>Ninthly,</hi> And it happening, that a Negotiation begun to treat of a Peace or a Truce for some Years, the same shall not be entred upon by one of the Allies, without the Knowledge of the other, and without procuring for him at the same time, and as soon as for him<g ref="char:EOLhyphen"/>self, all necessary and requisite Security and Liberty for the sending his Ministers unto the Place of Treaty, as also, without giving suc<g ref="char:EOLhyphen"/>cessively, and from time to time Communication of whatsoever shall happen in the said Negotiation; and neither the one nor the other shall pass to a conclusion of the said Peace or Truce, without com<g ref="char:EOLhyphen"/>prehending his Ally, and causing him to be restored, if he shall de<g ref="char:EOLhyphen"/>sire it, to the Possession of the Territories, Countries and Places, and the enjoyments of the Rights and Immunities, which he held and en<g ref="char:EOLhyphen"/>joyed before the War, and without stipulating from the common E<g ref="char:EOLhyphen"/>nemy for his Ally the same Rights, Immunities and Exemptions; and other Prerogatives as for himself, unless the Allys shall agree otherwise.</p>
+            </div>
+            <div n="10" type="article">
+               <head>
+                  <hi>Article</hi> X.</head>
+               <p>
+                  <hi>Tenthly,</hi> And to the Intent that their Majesties sincere Intention, which they have to establish between them and their Dominions and Subjects respectively, by this present Convention, a most strict Friendship and U<g ref="char:EOLhyphen"/>nion, for the good and quiet of each other, be with the greater care, se<g ref="char:EOLhyphen"/>cured
+<pb n="4" facs="tcp:196291:4"/>against all kind of Alterations: It is not only agreed, that neither His Majesty of <hi>Great Britain,</hi> nor his <hi>Catholick</hi> Majesty shall enter for the time to come in any Engagement contrary to this, but shall make no Treaty without comprehending each other therein, if it shall be desired, and without notifying the same timely enough, that his Ally may declare himself concerning the said Comprehension.</p>
+            </div>
+            <div n="11" type="article">
+               <head>
+                  <hi>Article</hi> XI.</head>
+               <p>
+                  <hi>Eleventhly,</hi> And whereas, one great End of this present League is in<g ref="char:EOLhyphen"/>tended for the preservation of the publick Quiet and Peace of <hi>Christendom,</hi> the Emperor shall be desired, and also, all other Kings, Princes and States shall be likewise desired to enter into such common measures, as shall be esteemed most effectual to that end; and both parties shall particularly endeavour to preserve in their rigour the Treaties lately concluded at <hi>Nimeghen,</hi> by which Peace and Quiet have been restored to <hi>Christendom.</hi>
+               </p>
+            </div>
+            <div n="12" type="article">
+               <head>
+                  <hi>Article</hi> XII.</head>
+               <p>
+                  <hi>Twelfthly,</hi> The Treaty of Peace and Friendship concluded between their Majesties at <hi>Madrid,</hi> in the Year 1667, and the Treaty for establishing Peace, <hi>&amp;c.</hi> in <hi>America,</hi> between the Crowns of <hi>Great Britain</hi> and <hi>Spain,</hi> made at <hi>Madrid,</hi> in the Year 1670, and all other Treaties and Conventi<g ref="char:EOLhyphen"/>ons made between their Majesties, shall be observed in all their Articles, and their Majesties, and their Subjects respectively shall enjoy the Benefit of what is agreed and adjusted in them, as well to publick Affairs, as those relating to private Persons.</p>
+            </div>
+            <div n="13" type="article">
+               <head>
+                  <hi>Article</hi> XIII.</head>
+               <p>
+                  <hi>Thirteenthly,</hi> This Treaty shall continue in Force until the 20th. of <hi>Au<g ref="char:EOLhyphen"/>gust</hi> 1693, and before the determination of that time, it shall be further agreed upon, how much longer the same shall be continued for the com<g ref="char:EOLhyphen"/>mon Good, and this Treaty shall be ratifyed within two months after the Signing thereof, by both Parties respectively.</p>
+            </div>
+            <closer>
+               <dateline>Done in the Royal Castle of <hi>Windsor,</hi>
+                  <date>the 10th. day of <hi>June</hi> 1680.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>L S. Sunderland.</item>
+                     <item>L S. L. Hyde.</item>
+                     <item>L S. L. Jenkins.</item>
+                     <item>L S. Don Pedro de Ronquillos.</item>
+                     <item>L S. L. Godolphin.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <head>Separate Article.</head>
+               <p>It is agreed by this Separate Article, that in Case the States General of the United Provinces shall think fit to augment with any Sea Forces, the Succors agreed upon by the 4th. and 7th. Articles of their Treaty with the Crown of <hi>Spain,</hi> dated the 30th. of <hi>August</hi> 1673. The King of <hi>Great Britain</hi> promises to assist the <hi>Catholick</hi> King with the like number of Ships over and above the Forces Stipulated by the 4th. and 7th. Arsicles of this Treaty.</p>
+               <closer>
+                  <dateline>Done in the Royal Castle of <hi>Windsor,</hi>
+                     <date>the 10th. day of <hi>June</hi> 1680.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>L S. Sunderland.</item>
+                        <item>L S. L. Hyde</item>
+                        <item>L S. L. Jenkins.</item>
+                        <item>L S. Don Pedro de Ronquillos.</item>
+                        <item>L S. L. Godolphin.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="treaty">
+            <head>Articles of Alliance between <hi>ENGLAND</hi> and <hi>HOLLAND,</hi> &amp;c.</head>
+            <div n="1" type="article">
+               <head>
+                  <hi>Article</hi> I.</head>
+               <p>THere shall be for the future between the King and his Successors King of <hi>Great Britain,</hi> and his Kingdoms on one Part, and the <hi>States Ge<g ref="char:EOLhyphen"/>neral</hi> of the <hi>Ʋnited Provinces</hi> of the <hi>Low Countries</hi> on the other, and their States and Countries appertaining to the same, and their Subjects reci<g ref="char:EOLhyphen"/>procally, a sincere, firm, and perpetual Friendship and good Correspon<g ref="char:EOLhyphen"/>dence, as well by Sea as Land, in all things, and in all places, as well with<g ref="char:EOLhyphen"/>in as without <hi>Europe.</hi>
+               </p>
+            </div>
+            <div n="2" type="article">
+               <head>
+                  <hi>Article</hi> II.</head>
+               <p>Moreover, there shall be between His Majesty and his Successors Kings of <hi>Great Britain</hi> and his Kingdoms, and the said States General, and their States and Countries belonging to the same, a strict Alliance and faithful
+<pb n="5" facs="tcp:196291:4"/>Confederation, for maintaining and preserving each other mutually in Tranqui<g ref="char:EOLhyphen"/>lity, Peace, Friendship and Neutrality, by Sea and Land, in the Possession of all Rights, Franchises and Liberties which they enjoy, or have right to enjoy, or which they have acquired, or shall acquire by the Treaties of Peace, Friendship and Neutrality, which have been made heretofore, or which shal be made hereafter jointly and by common consent, with other Kings, Common-Wealths, Princes and Towns, yet within the extent of <hi>Europe</hi> only.</p>
+            </div>
+            <div n="3" type="article">
+               <head>
+                  <hi>Article</hi> III.</head>
+               <p>And accordingly, they promise and obliege themselves to warrant each other, not only all Treaties which His Majesty and the said States General have alrea<g ref="char:EOLhyphen"/>dy made with other Kings, Common-Wealths, Princes and States, (which shall be exhibited on both Sides, before the Exchange of the Ratification) but also, all such, as shall be made hereafter jointly and by common consent, and to de<g ref="char:EOLhyphen"/>fend, assist, and preserve themselves reciprocally, in the Possession of the Coun<g ref="char:EOLhyphen"/>tries, Towns, and Places, which belong at present, and which shall belong here<g ref="char:EOLhyphen"/>after, as well to His Majesty and his Successors, Kings of <hi>Great Britain,</hi> as to the said States General by the said Treaties, in what Part of <hi>Europe</hi> soever the said Countries, Towns and Places be scituated: in case, that in any manner, as is above expressed, His Majesty, or the said States General happen to be molested or attacked by any Hostility or open War, by whom, or under what pretence soever it may be.</p>
+            </div>
+            <div n="4" type="article">
+               <head>
+                  <hi>Article</hi> IV.</head>
+               <p>This reciprocal Obligation to assist and defend each other, is to be under<g ref="char:EOLhyphen"/>stood, so as that His Majesty and the said States General, their Dominions and Subjects, shall be preserved and maintained in all their Rights, Possessions, Immunities and Liberties, as well of Navigation as Commerce, and all others whatsoever, as well by Sea as Land, which shall appertain to them by common Right, or be acquired by Treaties already made, or which may be made as aforesaid, against all Kings, Princes, Common-Wealths or States, so that if to the Prejudice of the said Tranquillity, Peace, Friendship or Neutrality, present or to come, His Majesty or the said States General happen to be hereafter at<g ref="char:EOLhyphen"/>tacked, or in any manner whatsoever molested in the Possession and Enjoyment of the Countries, Territories, Towns, Places, Rights, Immunities and Liberties of Commerce, Navigation, or others whatsoever, which His Majesty or the said States General enjoy at present, or shall have right to enjoy by Common Right, or by Treaties already made, or which shall be made in manner above mentioned; His Majesty and the said States General, being advertised there<g ref="char:EOLhyphen"/>of, and required the one by the other, shall do all they can to cause the said Molestation or Hostility to cease, and reparation to be made for the Injuries or Wrongs, which may have been done to either of the Allies.</p>
+            </div>
+            <div n="5" type="article">
+               <head>
+                  <hi>Article</hi> V.</head>
+               <p>And in Case the said Trouble or Molestation be followed by an open War, the Ally who shall not be attacked, shall be obliged to break two Months after the first Demand thereof made by him who shall be already in War, during which time he shall use all Endeavors by his Ambassador, or other Ministers, to me<g ref="char:EOLhyphen"/>diate a fair Accommodation between the Aggressor or Molestor, and him that shall be attacked or molested, and shall also, during the said time, assist his Ally in such manner as shall be agreed upon by secret Articles between His Majesty and the said States General, which, though not mentioned in the present Article, shall however be kept and observed as if they were inserted or written therein, it remaining notwithstanding, after the Expiration of the said Term of two Months in the Choice of the party in war, to continue to enjoy the Benefit of the said Succours, in case, the conjuncture of the time, or the Constitution of his Af<g ref="char:EOLhyphen"/>fairs make him prefer the effect thereof to that of an open Breach of his Ally.</p>
+            </div>
+            <div n="6" type="article">
+               <head>
+                  <hi>Article</hi> VI.</head>
+               <p>A reciprocal Guaranty being in this manner established, and promised, when either of the Allies shall be attacked or molested, if the States General of the U<g ref="char:EOLhyphen"/>nited Provinces shall happen to be so, and find themselves obliged to enter into an open War, His Majesty shall likewise be obliged to break with the Aggressor
+<pb n="6" facs="tcp:196291:5"/>or Molestor, and to employ all his Might and Forces by Sea and Land, and to join them to those of the said States General, when it shall be judged expedient, in order to reduce the common Enemy to a reasonable, sure and equitable Ac<g ref="char:EOLhyphen"/>commodation with the Crown of <hi>Great Britain,</hi> and the said United Provinces.</p>
+            </div>
+            <div n="7" type="article">
+               <head>
+                  <hi>Article</hi> VII.</head>
+               <p>And in this case the Forces of the King of <hi>Great Britain</hi> and the said States General shall act jointly or separately, according to what shall be then more particularly concerned between His Majesty and the said States General, who shall advise of and resolve upon together, the best means of molesting the com<g ref="char:EOLhyphen"/>mon Enemy whether by way of diversion or otherwise, to the intent that, as is said, he may be the soonest obliged to come to an Agreement.</p>
+            </div>
+            <div n="8" type="article">
+               <head>
+                  <hi>Article</hi> VIII.</head>
+               <p>The same which is contained in the two Articles immediately preceeding, shall be done by the said States General, in case <hi>Great Britain</hi> be attacked or molested in the manner abovesaid.</p>
+            </div>
+            <div n="9" type="article">
+               <head>
+                  <hi>Article</hi> IX.</head>
+               <p>When both Allies shall be once entred into open war, in pursuance of this Trea<g ref="char:EOLhyphen"/>ty, neither of them shall make any Suspension of Arms with him who shall be de<g ref="char:EOLhyphen"/>clared and acknowledged as a common Enemy, but only jointly, and by com<g ref="char:EOLhyphen"/>mon Consent.</p>
+            </div>
+            <div n="10" type="article">
+               <head>
+                  <hi>Article</hi> X.</head>
+               <p>And it happning, that a Negotiation be entred upon, for treating of a Peace, or a Truce of some years, the same shall not be begun by one of the Allys without the knowledg of the other, and without procuring for him at the same time, and as soon as for himself, the necessary and requisite Security and Liberty for the sending his Ministers unto the place of Treaty, as also, without communicating succesfully, and from time to time whatever shall pass in the said Negotiation, &amp; neither the one nor the other shall pass to a conclusion of the said Peace or Truce, without comprehending his Ally therein, and causing him to be restored, if he shall desire it, to the Possession of the Territories, Countries or Places, and the en<g ref="char:EOLhyphen"/>joyments of the Rights and Immunities which he held and enjoyed before the War, and without stipulating from the common Enemy for his Ally, the same Rights, Immunities, Exemptions, and Prerogatives, as for himself, unless the Allies shall agree otherwise.</p>
+            </div>
+            <div n="11" type="article">
+               <head>
+                  <hi>Article.</hi> XI.</head>
+               <p>It shall be permitted to the Ally attacked, to make Levies of all sort of Soldiers in the others Countries, to serve in their Land Armies, provided it be under such capitulations, as the Parties shall between themselves agree upon.</p>
+            </div>
+            <div n="12" type="article">
+               <head>
+                  <hi>Article</hi> XII.</head>
+               <p>The Ratifications of this present Treaty shall be delivered in due form, &amp; ex<g ref="char:EOLhyphen"/>changed reciprocally within the space of four weeks from the Signing thereof.</p>
+            </div>
+            <closer>
+               <dateline>In witness of all which, <hi>&amp;c.</hi> Done at <hi>Westminister</hi>
+                  <date>the 3d. of <hi>March</hi> 1678.</date>
+               </dateline>
+               <signed>Signed.
+<list>
+                     <item>Finch C. L S.</item>
+                     <item>Danby L S.</item>
+                     <item>Arlinton L S.</item>
+                     <item>F Coventry L S.</item>
+                     <item>I. Williamson L S.</item>
+                     <item>C. van Deuningen L S.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <head>Separate Articles.</head>
+               <p>The case of the 5th. Article happening, the said King and his Successors, &amp; the said States General, shall be obliged to assist each other mutually, as often as they shall be attacked or molested, as it is more largely expressed in the said Article, with the following Succors, <hi>viz.</hi> His Majesty of <hi>Great Britain,</hi> the said States Ge<g ref="char:EOLhyphen"/>neral with ten thousand Foot; and the said States General, His Majesty of <hi>Great Britain</hi> with ten thousand Foot well Armed, in such Regiments &amp; Companies, &amp; under such Collonels &amp; other Officers as His said Majesty, &amp; the said States shall think fit and most convenient for such Succors, &amp; with twenty Men of War, well equipped and provided, and the said Succors shall be delivered &amp; maintained at the Expence of the Ally, who shall send them, for the Service of the Ally who shall be attac't.</p>
+               <p>
+                  <label>
+                     <hi>Article</hi> II.</label> When the necessity of affairs shall require, that the Succors promised &amp; agreed upon, ought to be Augumented, the said King, and the said States General, shall endevor to agree thereof together,</p>
+               <p>
+                  <label>
+                     <hi>Article</hi> III.</label> The Succors which shall be sent, shall be wholly committed to the Command and Orders of him to whom they are sent, to make Use of, or Transport them to such Places as he shall think fit, by Water or Land, in the Field, for the Besieging &amp; defending of Places, a &amp; every where, where it shall be found necessary &amp; ad<g ref="char:EOLhyphen"/>vantagious. In witness whereof, <hi>&amp;c.</hi>
+               </p>
+               <closer>
+                  <dateline>Done at <hi>Westminister</hi>
+                     <date>the 3 of <hi>March</hi> 1678.</date>
+                  </dateline>
+                  <signed>Signed.
+<list>
+                        <item>Firch G. L S.</item>
+                        <item>Danby. L S.</item>
+                        <item>Arlington. L S.</item>
+                        <item>F. Coventry. L S.</item>
+                        <item>I. Williamson L S.</item>
+                        <item>C. van Beuningen L S.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
